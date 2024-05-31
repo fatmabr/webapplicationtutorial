@@ -1,0 +1,9 @@
+This is a team management application.
+The implemented API are:
+GET: /api/teams
+POST: /api/teams
+
+To install the APIs :
+1- build the application using mvn clean package.
+2- run in a terminal :
+    java -jar  teamManagement.jar
